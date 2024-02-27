@@ -1,0 +1,23 @@
+C:\Users\Michal Farník\source\repos\Space Trespassers\Space Trespassers\bin\Debug\Space Trespassers.exe.config
+C:\Users\Michal Farník\source\repos\Space Trespassers\Space Trespassers\bin\Debug\Space Trespassers.exe
+C:\Users\Michal Farník\source\repos\Space Trespassers\Space Trespassers\bin\Debug\Space Trespassers.pdb
+C:\Users\Michal Farník\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space Trespassers.csproj.AssemblyReference.cache
+C:\Users\Michal Farník\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space_Trespassers.Properties.Resources.resources
+C:\Users\Michal Farník\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space Trespassers.csproj.GenerateResource.cache
+C:\Users\Michal Farník\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space Trespassers.csproj.CoreCompileInputs.cache
+C:\Users\Michal Farník\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space Trespassers.exe
+C:\Users\Michal Farník\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space Trespassers.pdb
+C:\Users\Michal Farník\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space_Trespassers.Menu.resources
+C:\Users\Michal Farník\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space_Trespassers.PlayForm.resources
+C:\Users\Tucna\source\repos\Space Trespassers\Space Trespassers\bin\Debug\Space Trespassers.exe.config
+C:\Users\Tucna\source\repos\Space Trespassers\Space Trespassers\bin\Debug\Space Trespassers.exe
+C:\Users\Tucna\source\repos\Space Trespassers\Space Trespassers\bin\Debug\Space Trespassers.pdb
+C:\Users\Tucna\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space Trespassers.csproj.AssemblyReference.cache
+C:\Users\Tucna\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space Trespassers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tucna\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space_Trespassers.Menu.resources
+C:\Users\Tucna\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space_Trespassers.PlayForm.resources
+C:\Users\Tucna\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space_Trespassers.Properties.Resources.resources
+C:\Users\Tucna\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space Trespassers.csproj.GenerateResource.cache
+C:\Users\Tucna\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space Trespassers.csproj.CoreCompileInputs.cache
+C:\Users\Tucna\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space Trespassers.exe
+C:\Users\Tucna\source\repos\Space Trespassers\Space Trespassers\obj\Debug\Space Trespassers.pdb
